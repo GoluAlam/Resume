@@ -17,8 +17,11 @@ class _SignUpScreenState extends State<SignUpScreen> {
     final authController = AuthController(context: context);
     var view = AppWidgets();
     return Scaffold(
-      appBar: view.appBarView(
-        backgroundColor: Colors.blue
+      appBar: AppBar(
+        backgroundColor: Colors.blue,
+        title: Text('SignUp',style: TextStyle(color: Colors.white),),
+        centerTitle: true,
+
       ),
       body: Padding(
         padding: const EdgeInsets.all(8.0),
