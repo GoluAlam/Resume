@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "620012359691",
+    "firebase_url": "https://alikay-shop-default-rtdb.firebaseio.com",
+    "project_id": "alikay-shop",
+    "storage_bucket": "alikay-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620012359691:android:b02d3f14103fdeb473770e",
+        "android_client_info": {
+          "package_name": "com.edugaon.alikay_shop_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620012359691-1jb0e9rp9poldlpoubqpg6ha8csulv9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edugaon.alikay_shop_admin",
+            "certificate_hash": "35fd9ffda6337ca83e7618eb61cab28b33fdba9f"
+          }
+        },
+        {
+          "client_id": "620012359691-42hgkb3lovqs5o8s5abk3elrlhoionpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe6zM-5CnYYEPAw_9amujlZPR9iGkjfB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620012359691-42hgkb3lovqs5o8s5abk3elrlhoionpc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "620012359691-6ff7gc0ct7revbmm4o3kbs2ecc5bjrhe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.alikayShopAdmin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620012359691:android:3ef8ec5df6c0dff273770e",
+        "android_client_info": {
+          "package_name": "com.example.alikay_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620012359691-hp5ocnit7sh9o54juqlb5q6phb4ndhcg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alikay_shop",
+            "certificate_hash": "35fd9ffda6337ca83e7618eb61cab28b33fdba9f"
+          }
+        },
+        {
+          "client_id": "620012359691-42hgkb3lovqs5o8s5abk3elrlhoionpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe6zM-5CnYYEPAw_9amujlZPR9iGkjfB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620012359691-42hgkb3lovqs5o8s5abk3elrlhoionpc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "620012359691-6ff7gc0ct7revbmm4o3kbs2ecc5bjrhe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.alikayShopAdmin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620012359691:android:bd906ba43fad4ccd73770e",
+        "android_client_info": {
+          "package_name": "com.example.resume_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620012359691-42hgkb3lovqs5o8s5abk3elrlhoionpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe6zM-5CnYYEPAw_9amujlZPR9iGkjfB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620012359691-42hgkb3lovqs5o8s5abk3elrlhoionpc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "620012359691-6ff7gc0ct7revbmm4o3kbs2ecc5bjrhe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.alikayShopAdmin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>620012359691-boti3hl3o2u5dp6nkq9f58h7s7uim7oh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.620012359691-boti3hl3o2u5dp6nkq9f58h7s7uim7oh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>620012359691-1jb0e9rp9poldlpoubqpg6ha8csulv9r.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAtSaW7GZ0_Gv8XLlDvxjXDnZI10IFXe-A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>620012359691</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.resumeApp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>alikay-shop</string>
+	<key>STORAGE_BUCKET</key>
+	<string>alikay-shop.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:620012359691:ios:53b96cd02e03e3e973770e</string>
+	<key>DATABASE_URL</key>
+	<string>https://alikay-shop-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
