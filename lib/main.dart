@@ -1,6 +1,5 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:resume_app/views/screens/resume_screen/create_resume_screen.dart';
 import 'package:resume_app/views/screens/splash_screen.dart';
 import 'firebase_options.dart';
 

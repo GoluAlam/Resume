@@ -20,9 +20,6 @@ class AuthController{
     _auth.signInWithEmailAndPassword(email: email, password: password).then((value){
       Fluttertoast.showToast(msg: 'SignIn Account Successfully');
       Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => const CreateResumeScreen(),));
-
-
-
     });
 
   }
